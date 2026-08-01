@@ -1,0 +1,7 @@
+{
+  "project": "WMS",
+  "workflow_status": "IN_PROGRESS",
+  "current_phase": "gap_analyzer",
+  "completed_phases": [],
+  "next_phase": "gap_analyzer"
+}
