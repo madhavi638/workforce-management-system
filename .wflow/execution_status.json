@@ -1,7 +1,9 @@
 {
-  "project": "WMS",
-  "workflow_status": "IN_PROGRESS",
-  "current_phase": "gap_analyzer",
+  "workflow_status": "STARTED",
+  "execution_mode": "INITIAL",
+  "current_phase": "",
   "completed_phases": [],
-  "next_phase": "gap_analyzer"
+  "next_phase": "gap_analyzer",
+  "rerun_phase": "",
+  "reason": "Initial workflow execution"
 }
